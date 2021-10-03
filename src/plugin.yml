@@ -1,0 +1,5 @@
+name: Troller
+version: 1.0
+api-version: 1.13 
+main: me.cheeezair.Main
+description: trolling
